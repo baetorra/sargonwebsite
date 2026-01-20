@@ -11,6 +11,7 @@ interface ExperienceCardProps {
   cta: string;
   imagePosition: 'left' | 'right';
   image: string;
+  href?: string;
 }
 
 export default function ExperienceCard({
@@ -20,6 +21,7 @@ export default function ExperienceCard({
   cta,
   imagePosition,
   image,
+  href,
 }: ExperienceCardProps) {
   const params = useParams();
   const locale = params.locale as string;
@@ -44,7 +46,7 @@ export default function ExperienceCard({
           {description}
         </p>
         <Link
-          href={`/${locale}#contact`}
+          href={href ? `/${locale}${href}` : `/${locale}#contact`}
           className="inline-block border-2 border-primary text-primary px-8 py-3 hover:bg-primary hover:text-primary-foreground transition-all duration-300 text-sm uppercase tracking-wider"
         >
           {cta}

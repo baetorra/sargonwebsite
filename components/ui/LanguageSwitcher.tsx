@@ -1,13 +1,15 @@
 'use client';
 
 import { useParams, usePathname, useRouter } from 'next/navigation';
-import { locales } from '@/i18n';
 
 export default function LanguageSwitcher() {
   const router = useRouter();
   const pathname = usePathname();
   const params = useParams();
   const currentLocale = params.locale as string;
+
+  // Only show English and Italian in the menu
+  const visibleLocales = ['en', 'it'];
 
   const switchLocale = (newLocale: string) => {
     // Replace the locale in the current pathname
@@ -18,7 +20,7 @@ export default function LanguageSwitcher() {
 
   return (
     <div className="flex items-center gap-3">
-      {locales.map((locale) => (
+      {visibleLocales.map((locale) => (
         <button
           key={locale}
           onClick={() => switchLocale(locale)}

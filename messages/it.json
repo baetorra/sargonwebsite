@@ -5,6 +5,7 @@
     "home": "Home",
     "experiences": "Esperienze",
     "philosophy": "Filosofia",
+    "about": "Chi Siamo",
     "contact": "Contatti"
   },
   "hero": {
@@ -68,6 +69,457 @@
   "contact": {
     "title": "Contattaci",
     "subtitle": "Mettiti in contatto con noi",
-    "description": "Non esitare a contattarci per qualsiasi domanda o richiesta."
+    "description": "Non abbiamo brochure. Abbiamo storie, esperienze e una conoscenza profonda del mare. Scrivici, chiamaci, vieni a trovarci a Budoni.",
+    "person": {
+      "name": "Giovanna Doddo",
+      "role": "Studio Marine Srl",
+      "tagline": "Conscious Luxury in Sardegna"
+    },
+    "labels": {
+      "phone": "Telefono",
+      "email": "Email",
+      "website": "Sito Web",
+      "address": "Indirizzo"
+    }
+  },
+  "dailyCruisePage": {
+    "title": "Daily Cruise",
+    "subtitle": "A day worth a lifetime.",
+    "location": "Area Marina Protetta di Tavolara, Sardegna",
+    "duration": "6-8 ore",
+    "captain": "Studio Marine",
+    "price": "Contattaci",
+    "share": "Condividi",
+    "tabs": {
+      "overview": "Panoramica",
+      "location": "Posizione",
+      "included": "Cosa è incluso",
+      "faqs": "Domande"
+    },
+    "overviewTitle": "Un viaggio da vivere",
+    "facilitiesTitle": "Cosa vivrai",
+    "intro": [
+      "La tua avventura ha inizio nel silenzio. Non c'è fretta.",
+      "Solo il rumore delle onde che accarezzano lo scafo del catamarano Sargon, mentre salpiamo verso le acque cristalline dell'Area Marina Protetta di Tavolara un luogo dove la natura respira ancora libera.",
+      "Quanta grazia racchiude questo lembo di mare, gli occhi si riempiono, il cuore si scioglie."
+    ],
+    "destinations": [
+      "Le spiagge di Lu Impostu, La Cinta, Cala Brandinchi — non viste, ma sentite: nel sale, nel vento, nel silenzio che le avvolge.",
+      "Capo Coda Cavallo, dove il vento racconta rotte antiche — di vele, di commerci, di destini incrociati tra i mari.",
+      "E poi, Molara e Tavolara — non rocce nel mare, ma custodi viventi di storie: di battaglie, di regni, di segreti custoditi con grazia."
+    ],
+    "experience": [
+      "Qui, ogni orizzonte è memoria. Ogni onda, un respiro del passato. Sotto le chiglie, pesci che danzano. Sul fondale, gorgonie che raccontano storie antiche.",
+      "Ogni immersione nelle sue acque non è solo un tuffo, ma un dialogo con il passato. Ogni respiro, un legame con chi ha camminato qui prima di te.",
+      "Ma questa esperienza va oltre il ricordo della storia.",
+      "A bordo, il tuo palato incontra la Sardegna essenziale: un pane caldo appena sfornato, un formaggio che sa di montagna e tempo, un bicchiere di Cannonau che racconta terra, sole e mani che lavorano.",
+      "Ogni boccone, un gesto d'amore. Ogni piatto, una storia vissuta — non raccontata, ma consegnata.",
+      "Serviti… come dono. Con silenzio. Con rispetto. Con anima.",
+      "Nell'ora del ritorno Sargon rientra piano, ma tu non torni come prima. Qualcosa qui ti ha toccato — non con rumore, ma con verità.",
+      "Perché questa non è stata una giornata. È stato un incontro. Con la Sardegna. Con te stesso. Con il tempo che, per una volta, ha deciso di aspettarti."
+    ],
+    "included": {
+      "title": "Incluso nell'esperienza",
+      "items": [
+        "Tempo senza orologio, spazio per respirare, ascolto autentico",
+        "Capitano certificato con la patente nautica Ufficiale di coperta di 2° classe",
+        "Hostess attenta e discreta",
+        "Assicurazione",
+        "Carburante",
+        "Snorkeling & SUP, attrezzatura di qualità, pronta all'uso, senza pensieri",
+        "Teli mare morbidi e profumati, preparati con cura",
+        "Benvenuto con caffè, tè e succhi freschi di frutta",
+        "Prosecco servito con tocchi di sapore: piccoli antipasti tipici, scelti per raccontare la Sardegna",
+        "Frutta di stagione, selezionata al momento",
+        "Acqua minerale e vino locale serviti con discrezione",
+        "Spritz accompagnato da dolci fatti in casa, pane caldo, miele e marmellate artigianali",
+        "Opzioni vegetariane e senza glutine su richiesta con 24 ore di preavviso"
+      ]
+    },
+    "details": {
+      "title": "Esperienza",
+      "items": [
+        "Durata: 6–8 ore, senza orari rigidi – il tempo si adatta al ritmo del mare e dell'anima",
+        "Pochi ospiti a bordo, per preservare intimità, silenzio e autenticità",
+        "Itinerario: fluido e intuitivo, ispirato dal vento, dalla luce e dall'istinto del momento",
+        "Soste bagno libere e spontanee, nei luoghi più cristallini e protetti della costa",
+        "Libertà assoluta: nessuna rotta obbligata – si cambia direzione quando il cuore o il mare lo chiedono",
+        "Cibo vero: preparati con prodotti locali, stagionali, senza fronzoli – come li farebbe una nonna sarda",
+        "Silenzio consapevole: momenti dedicati all'ascolto – del mare, del vento, di sé",
+        "Storia viva: approdi a Tavolara, Molara o isole minori raccontate con voce autentica, non da brochure",
+        "Capitano conoscitore: non solo un marinaio, ma un custode di storie, fondali e segreti del territorio",
+        "Connessione, non intrattenimento: niente musica forzata, niente programmi preconfezionati – solo presenza reale"
+      ]
+    },
+    "whatToBring": {
+      "title": "Cosa portare",
+      "items": [
+        "Un costume da bagno",
+        "Ciabattine da mare – leggere, per salire e scendere in sicurezza",
+        "Un telo mare",
+        "Crema solare e un cappello",
+        "Parole gentili e la voglia di lasciarsi guidare"
+      ]
+    },
+    "bookCta": "Prenota l'esperienza",
+    "galleryTitle": "Momenti che rimangono con te",
+    "locationTab": {
+      "title": "Il luogo dove andrai",
+      "aboutTitle": "Sul luogo"
+    },
+    "faqsTab": {
+      "title": "Domande frequenti",
+      "q1": {
+        "question": "Qual è la politica di cancellazione?",
+        "answer": "Contattaci per i dettagli sulla nostra politica di cancellazione flessibile."
+      },
+      "q2": {
+        "question": "L'esperienza è adatta ai bambini?",
+        "answer": "Sì, le famiglie con bambini sono le benvenute a bordo di Sargon."
+      },
+      "q3": {
+        "question": "Cosa succede in caso di maltempo?",
+        "answer": "Monitoriamo attentamente le condizioni meteorologiche e riprogrammeremo se necessario per la vostra sicurezza e comfort."
+      }
+    },
+    "ctaSection": {
+      "title": "Pronto a vivere l'esperienza Sargon?"
+    }
+  },
+  "sunsetVoyagePage": {
+    "title": "Sunset Voyage",
+    "subtitle": "Un'ora in cui il tempo non scorre. Solo respira.",
+    "location": "Area Marina Protetta di Tavolara, Sardegna",
+    "duration": "2 ore",
+    "captain": "Studio Marine",
+    "price": "Contattaci",
+    "share": "Condividi",
+    "tabs": {
+      "overview": "Panoramica",
+      "location": "Posizione",
+      "included": "Cosa è incluso",
+      "faqs": "Domande"
+    },
+    "overviewTitle": "Un momento sospeso",
+    "facilitiesTitle": "Cosa vivrai",
+    "intro": [
+      "Quando il sole si posa sull'orizzonte, Sargon non salpa — si dispone.",
+      "Come un altare di luce e acqua, in navigazione e in rada, tra le isole che dormono.",
+      "Qui, non c'è avventura da raccontare. C'è solo presenza:"
+    ],
+    "moments": [
+      "piedi nell'acqua fresca",
+      "calici di vino che sa di radice e vento",
+      "risate che non finiscono mai, perché non hanno bisogno di un finale"
+    ],
+    "experience": [
+      "I sapori? Essenziali. Non esibiti, ma offerti come doni.",
+      "Non è un aperitivo. È un momento sospeso, dove il mare ti ascolta, il cielo ti abbraccia, e tu — finalmente — smetti di cercare. Ti lasci trovare.",
+      "Il sole si adagia sull'orizzonte, e il mare restituisce ciò che ha accolto: la tua presenza, il tuo silenzio, il tuo stupore."
+    ],
+    "included": {
+      "title": "Incluso nel Sunset Voyage",
+      "items": [
+        "Un itinerario spontaneo e poetico: seguiamo la luce del tramonto e il ritmo del mare",
+        "Capitano certificato con la patente nautica Ufficiale di coperta di 2° classe",
+        "Hostess attenta e discreta",
+        "Il tour è coperto da assicurazione",
+        "Carburante",
+        "Prosecco e Spritz",
+        "Tocchi di sapore: stuzzichini tipici, scelti per raccontare la Sardegna",
+        "Acqua minerale e vino locale serviti con discrezione",
+        "Opzioni vegetariane e senza glutine su richiesta con 24 ore di preavviso"
+      ]
+    },
+    "details": {
+      "title": "L'esperienza",
+      "items": [
+        "Durata: 2 ore, senza orari rigidi – il tempo si adatta al ritmo del mare e dell'anima",
+        "Silenzio consapevole: niente musica artificiale, solo i suoni naturali del mare, del vento e della costa",
+        "Pochi ospiti a bordo: per preservare intimità, autenticità e qualità dell'esperienza",
+        "Accoglienza sensoriale: ogni dettaglio — dal tessuto delle tovagliette al profumo dell'aria — è pensato per risvegliare la presenza",
+        "Presenza di un capitano conoscitore del territorio, capace di svelare storie misteriose legate al mare",
+        "Non si tratta di \"servire un aperitivo\", ma di offrire un rito contemporaneo di connessione — con il mare, con la Sardegna, con sé stessi"
+      ]
+    },
+    "whatToBring": {
+      "title": "Cosa portare",
+      "items": [
+        "Sandali – leggeri, per salire e scendere in sicurezza"
+      ]
+    },
+    "bookCta": "Prenota l'esperienza",
+    "galleryTitle": "Moments that stay with you",
+    "locationTab": {
+      "title": "Il luogo dove andrai",
+      "aboutTitle": "Sul luogo"
+    },
+    "faqsTab": {
+      "title": "Domande frequenti",
+      "q1": {
+        "question": "A che ora parte il tramonto?",
+        "answer": "L'orario di partenza varia con la stagione per garantire la perfetta esperienza del tramonto. Confermeremo l'orario esatto al momento della prenotazione."
+      },
+      "q2": {
+        "question": "L'aperitivo è incluso?",
+        "answer": "Sì, prosecco, spritz e autentici antipasti sardi sono tutti inclusi nella tua esperienza."
+      },
+      "q3": {
+        "question": "Possiamo nuotare durante il tramonto?",
+        "answer": "Sebbene il focus sia sull'esperienza del tramonto, tempo e condizioni permettendo, potrebbero esserci opportunità per un tuffo rinfrescante."
+      }
+    },
+    "ctaSection": {
+      "title": "Pronto a vivere l'esperienza Sargon al tramonto?"
+    }
+  },
+  "signatureServicesPage": {
+    "title": "Servizi Signature",
+    "subtitle": "Dove l'eccellenza incontra il mare",
+    "location": "A bordo di Sargon",
+    "duration": "Esperienza su misura",
+    "service": "Catering by Pentumas",
+    "price": "Contattaci",
+    "tabs": {
+      "overview": "Panoramica",
+      "menus": "Menu",
+      "wines": "Selezione Vini",
+      "details": "Dettagli"
+    },
+    "overviewTitle": "Naviga il mare dei sapori",
+    "intro": [
+      "Il servizio catering esclusivo preparato presso il ristorante Pentumas e servito a bordo di Sargon non è un semplice pasto in barca: è un viaggio dei sensi intessuto di rispetto per mare, terra e tempo, offerto con la delicatezza di chi sa che il vero lusso è nell'essenziale.",
+      "Il cibo arriva direttamente dal cuore della Sardegna: ingredienti freschissimi e stagionali, coltivati con cura da una storica azienda agricola biologica a gestione familiare. Nulla è standardizzato o replicato altrove. Ogni piatto è realizzato artigianalmente nel ristorante, poi trasportato a bordo per essere vissuto nella sua interezza — con il profumo del mare, la luce del sole e il dondolio dolce del catamarano.",
+      "I vini raccontano le colline circostanti, i distillati — come il premiato Gin di Nonna Luigina — custodiscono memorie d'infanzia e innovazione sostenibile. Ma ciò che rende davvero speciale questo catering è il suo spirito: a bordo di Sargon non si serve, si condivide. Nessuna imposizione di tempi o formalità: si ascolta, si accompagna, si accoglie.",
+      "Qui il vero lusso è la qualità del momento: assaporare non solo il cibo, ma anche la luce, il silenzio, il dondolio del catamarano e la compagnia sincera. Mangiare a bordo di Sargon significa riscoprire l'antica convivialità: lenta, autentica, radicata nel territorio. Ogni boccone è omaggio alla terra, ogni calice un brindisi alla bellezza di essere presenti, ora, sul mare più limpido del Mediterraneo."
+    ],
+    "menusIntro": "Di seguito alcuni menù pensati per raccontare la terra, esaltare il mare e celebrare il tempo che si ferma.",
+    "menus": {
+      "fish": {
+        "title": "Menù Pesce",
+        "subtitle": "Buffet con giro braccio",
+        "items": [
+          "Panzanella di tonno e bottarga",
+          "Meloce, menta e gamberi",
+          "Caprese di stracciatella e avocado",
+          "Patate, fagioli e polpo",
+          "Ricotta e composta di scalogno",
+          "Tartare di branzino, acciughe e capperi",
+          "Insalata di riso e seppie arrostite",
+          "Calamari alla brace, rucola e pomodorini",
+          "Focaccia di patate, mousse di caprino e orata marinata",
+          "Macedonia di frutta",
+          "Tiramisù classico"
+        ]
+      },
+      "meat": {
+        "title": "Menù Carne",
+        "subtitle": "Buffet e giro braccio",
+        "items": [
+          "Pomodoro, mozzarella e focaccia di patate",
+          "Speck e kiwi",
+          "Tartare di manzo e maionese agli agrumi",
+          "Patate, fagiolini e zucchine in carpione",
+          "Ricotta e composta di scalogno",
+          "Insalata di riso, tuorlo d'uovo marinato e caviale al tartufo",
+          "Melone, yogurt e cannella",
+          "Mini pizzette al tegamino con broccoli e salsiccia",
+          "Tacos di manzo, guacamole e grana riserva",
+          "Macedonia di frutta",
+          "Panna cotta alla vaniglia e ananas marinato"
+        ]
+      },
+      "vegetarian": {
+        "title": "Menù Vegetariano",
+        "subtitle": "Buffet e giro braccio",
+        "items": [
+          "Panzanella di zucchine arrosto",
+          "Caprese di burrata",
+          "Insalata di riso",
+          "Tartare di rapa rossa, pomodoro e basilico",
+          "Maritozzi salati",
+          "Mini-quiche di verdure",
+          "Polpetta fredda di melanzane e caponata alla catanese",
+          "Finocchi e arance",
+          "Gazpacho di pomodoro, peperoni in agrodolce",
+          "Macedonia di frutta",
+          "Panna cotta di finocchi, pompelmo al balsamico e marmellata di limone"
+        ]
+      }
+    },
+    "pairingsTitle": "Abbinamenti & Degustazioni",
+    "pairingsIntro": [
+      "Ogni menù si accompagna a vini del territorio, selezionati con cura dalle cantine Fratelli Sanna o Teodoro: espressioni autentiche della terra che ci nutre, custodi del suo terroir e della sua anima. Non sono semplici etichette, ma storie raccontate in calice.",
+      "L'esperienza culinaria culmina con una degustazione intima di distillati locali e dolci tradizionali, tra cui spicca il Gin sardo di \"Nonna Luigina\", nato dall'antico agrume Sa Pompia. Un liquore che sa di radici, sole e innovazione — premiato con l'Oscar Green 2020 per la Creatività, perché capace di unire tradizione e sostenibilità in un sorso.",
+      "Ogni vino è scelto per raccontare un frammento di Sardegna: la pietra, il vento, il sale, il silenzio.",
+      "Per degustazioni personalizzate o abbinamenti su misura, il vostro consulente su Sargon è a disposizione."
+    ],
+    "wineListTitle": "Carta di vini a bordo di Sargon",
+    "wineListQuote": "A bordo di Sargon condividiamo solo ciò che ha un'anima: Una piccola selezione di distillati d'autore ed etichette rare, scelti non per completezza ma per verità. Perché qui, ogni goccia deve meritare il silenzio del mare che la circonda.",
+    "wineSelection": {
+      "sparklingTitle": "Bolle",
+      "sparkling": [
+        {
+          "name": "Siddùra – Blanc de Blancs Brut Metodo Classico Riserva 2018",
+          "description": "Vermentino di Gallura, 48 mesi sui lieviti",
+          "price": "€ 172"
+        }
+      ],
+      "vermentinoTitle": "Vermentino di Gallura DOCG",
+      "vermentino": [
+        {
+          "name": "Li Duni – Korakas 2023",
+          "description": "Vigneti granitici di Arzachena, fermentazione in cemento",
+          "price": "€ 152"
+        },
+        {
+          "name": "Surrau – Sciala 2023",
+          "description": "Santa Teresa Gallura, freschezza e mineralità mediterranea",
+          "price": "€ 136"
+        },
+        {
+          "name": "Cantina di Santadi – Nuna 2023",
+          "description": "Espressione pura del Vermentino gallurese",
+          "price": "€ 124"
+        }
+      ],
+      "otherWhitesTitle": "Altri Bianchi del Territorio",
+      "otherWhites": [
+        {
+          "name": "Teodoro – Torbato Antico 2023",
+          "description": "Alghero, vitigno storico, profumi di fiori d'arancio e pesca gialla",
+          "price": "€ 142"
+        },
+        {
+          "name": "Fratelli Sanna – S'Acca Vermentino di Romangia 2023",
+          "description": "Terreni calcarei tra Sassari e Porto Torres",
+          "price": "€ 126"
+        },
+        {
+          "name": "Teodoro – Lu Tintu Vermentino 2023",
+          "description": "Blend di vigneti del Nord, ideale per l'aperitivo sul mare",
+          "price": "€ 124"
+        }
+      ],
+      "redsTitle": "Rossi",
+      "reds": [
+        {
+          "name": "Tenute Dettori – Dinu Rosso 2020",
+          "description": "Cagnulari in purezza da vigneti centenari, Romangia",
+          "price": "€ 190"
+        },
+        {
+          "name": "Fratelli Sanna – Cagnulari Riserva 2021",
+          "description": "Affinamento in botte grande, tannino setoso, frutto rosso maturo",
+          "price": "€ 146"
+        }
+      ],
+      "note": "Su richiesta, disponibili altre etichette d'autore e annate verticali."
+    },
+    "detailsTitle": "Dettagli pratici",
+    "detailsItems": [
+      "Su richiesta",
+      "Prenotazione: richiesta con minimo 48 ore di anticipo",
+      "La cantina di Pentumas è pronta a rispondere a richieste specifiche di distillati o etichette d'autore",
+      "I prezzi delle etichette extra saranno concordati al momento della prenotazione, in base alle vostre preferenze"
+    ],
+    "bookCta": "Richiedi Informazioni",
+    "ctaSection": {
+      "title": "Pronto a vivere il servizio signature di Sargon?"
+    }
+  },
+  "exclusivePage": {
+    "title": "Servizi Esclusivi",
+    "subtitle": "Esperienze su misura per chi cerca lo straordinario",
+    "location": "A bordo di Sargon",
+    "duration": "Completamente personalizzabile",
+    "service": "Charter Privato",
+    "price": "Contattaci",
+    "mainTitle": "Il tuo viaggio, la tua visione",
+    "intro": [
+      "I servizi esclusivi di Sargon non sono un prodotto. Sono un dialogo. Uno spazio dove i tuoi desideri incontrano la nostra conoscenza del mare, del territorio e dell'arte dell'accoglienza.",
+      "Che si tratti di una celebrazione privata, un ritiro aziendale, un evento importante o semplicemente il desiderio di vivere il Mediterraneo in assoluta intimità, progettiamo ogni esperienza da zero — con rispetto, attenzione e dedizione.",
+      "Nessun itinerario fisso. Nessuna proposta standardizzata. Ogni dettaglio viene discusso, immaginato e creato specificamente per te."
+    ],
+    "services": [
+      {
+        "title": "Charter Privato",
+        "description": "Esclusività completa a bordo di Sargon. Scegli il tuo tempo, il tuo percorso, il tuo ritmo. Il catamarano diventa il tuo spazio privato sul mare."
+      },
+      {
+        "title": "Eventi Speciali",
+        "description": "Compleanni, anniversari, proposte di matrimonio, riunioni intime. Celebrazioni che meritano una cornice unica quanto il momento stesso."
+      },
+      {
+        "title": "Esperienze Corporate",
+        "description": "Team building, ritiri per executive, intrattenimento clienti. Esperienze professionali pensate per ispirare connessione e presenza."
+      },
+      {
+        "title": "Viaggi Estesi",
+        "description": "Viaggi di più giorni lungo la costa sarda. Scopri calette nascoste, isole isolate e autentici borghi costieri al tuo ritmo."
+      }
+    ],
+    "expectTitle": "Cosa Aspettarsi",
+    "expectItems": [
+      "Consulenza pre-esperienza per comprendere la tua visione e preferenze",
+      "Itinerario completamente personalizzato basato sui tuoi desideri e il ritmo del mare",
+      "Equipaggio dedicato attento ad ogni dettaglio",
+      "Opzioni catering premium dal ristorante Pentumas (su richiesta)",
+      "Selezione di vini curata da cantine artigianali locali",
+      "Tempistiche flessibili — nessun orario rigido",
+      "Privacy ed esclusività complete",
+      "Rispetto per il silenzio, la presenza e la bellezza del momento"
+    ],
+    "bookCta": "Contattaci",
+    "ctaSection": {
+      "title": "Pronto a creare la tua esperienza esclusiva?",
+      "description": "Condividi la tua visione con noi. Progetteremo un'esperienza che la onori."
+    }
+  },
+  "aboutPage": {
+    "title": "Chi Siamo",
+    "subtitle": "Una storia di mare, autenticità e presenza",
+    "introTitle": "Sargon: Più di un nome, un viaggio",
+    "intro": [
+      "Sargon non è un brand. È una visione. Un modo di vivere il mare che non ha nulla a che fare con il lusso in mostra, ma tutto con l'autenticità, la lentezza e il rispetto.",
+      "Nato dall'intuizione di Studio Marine, un laboratorio strategico che progetta esperienze radicate nel territorio e nel senso, Sargon prende il nome da un antico re — non di conquista, ma di connessione. Un nome che evoca viaggi, incontri, dialogo tra culture e mari.",
+      "A bordo di Sargon non ci sono itinerari fissi. Non ci sono menù standardizzati. C'è solo spazio: per il silenzio, per l'ascolto, per la presenza. Il catamarano diventa un luogo dove il mare ti insegna a rallentare, dove il lusso non è ciò che vedi, ma ciò che senti."
+    ],
+    "studioMarineTitle": "Studio Marine: Il laboratorio dietro Sargon",
+    "studioMarine": [
+      "Studio Marine non è un'azienda turistica. È un laboratorio di progettazione strategica che crea esperienze di senso. Ogni progetto nasce da una domanda: come possiamo tornare a un rapporto autentico con il territorio, con le persone, con il tempo?",
+      "Sargon è la risposta a quella domanda applicata al mare. Un'esperienza pensata per uscire dalla standardizzazione, per riscoprire la lentezza come lusso e il silenzio come ricchezza.",
+      "Il team dietro Studio Marine mette insieme visione strategica, conoscenza profonda del territorio sardo e capacità di tradurre valori in esperienze tangibili — mai imposte, sempre condivise."
+    ],
+    "valuesTitle": "I Nostri Valori",
+    "values": [
+      {
+        "title": "Autenticità",
+        "description": "Niente maschere. Niente performance. Ogni esperienza su Sargon è vera — dal cibo che arriva dalle aziende agricole locali, al capitano che conosce ogni scoglio per nome, ai vini che raccontano le colline circostanti."
+      },
+      {
+        "title": "Minimalismo",
+        "description": "Meno è più. Meno ospiti a bordo, meno tappe ma vissute in profondità, meno fretta e più presenza. Il vero lusso non è nell'accumulo, ma nella qualità essenziale."
+      },
+      {
+        "title": "Rispetto",
+        "description": "Per il mare, per il territorio, per il silenzio. Per chi accoglie e per chi è accolto. Ogni gesto a bordo di Sargon è un gesto di cura — mai invasivo, sempre attento."
+      },
+      {
+        "title": "Presenza",
+        "description": "L'opposto della distrazione. Su Sargon non intratteniamo — creiamo spazio perché tu possa finalmente essere presente. Ascoltare il vento, sentire l'acqua, riscoprire la bellezza di un momento che non chiede altro che essere vissuto."
+      }
+    ],
+    "teamTitle": "Le Persone Dietro l'Esperienza",
+    "team": [
+      "Ogni esperienza su Sargon è guidata da persone che non lavorano solo al mare — lo vivono. Il capitano non è un conducente: è un narratore, un custode di rotte e segreti. La hostess non è una cameriera: è una presenza che accompagna senza imporre.",
+      "Dietro ogni dettaglio — dal cibo preparato al ristorante Pentumas ai vini selezionati dalle cantine locali — ci sono persone che hanno scelto la qualità sulla quantità, la verità sull'apparenza.",
+      "Perché Sargon non è un servizio. È un incontro. E ogni incontro è reso possibile da chi crede che il vero lusso sia nell'autenticità."
+    ],
+    "ctaSection": {
+      "title": "Vuoi saperne di più?",
+      "description": "Non abbiamo brochure. Abbiamo storie. Scrivici.",
+      "cta": "Contattaci"
+    }
   }
 }

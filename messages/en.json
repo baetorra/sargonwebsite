@@ -5,6 +5,7 @@
     "home": "Home",
     "experiences": "Experiences",
     "philosophy": "Philosophy",
+    "about": "About",
     "contact": "Contact"
   },
   "hero": {
@@ -68,6 +69,457 @@
   "contact": {
     "title": "Contact Us",
     "subtitle": "Get in touch with us",
-    "description": "Feel free to reach out to us with any questions or inquiries."
+    "description": "We don't have brochures. We have stories, experiences, and a deep knowledge of the sea. Write to us, call us, come visit us in Budoni.",
+    "person": {
+      "name": "Giovanna Doddo",
+      "role": "Studio Marine Srl",
+      "tagline": "Conscious Luxury in Sardegna"
+    },
+    "labels": {
+      "phone": "Phone",
+      "email": "Email",
+      "website": "Website",
+      "address": "Address"
+    }
+  },
+  "dailyCruisePage": {
+    "title": "Daily Cruise",
+    "subtitle": "A day worth a lifetime.",
+    "location": "Tavolara Marine Protected Area, Sardinia",
+    "duration": "6-8 hours",
+    "captain": "Studio Marine",
+    "price": "Contact us",
+    "share": "Share",
+    "tabs": {
+      "overview": "Overview",
+      "location": "Location",
+      "included": "What's included",
+      "faqs": "FAQs"
+    },
+    "overviewTitle": "A journey worth living",
+    "facilitiesTitle": "What you'll experience",
+    "intro": [
+      "Your adventure begins in silence. There's no rush.",
+      "Only the sound of waves caressing the hull of the Sargon catamaran, as we set sail towards the crystal-clear waters of the Tavolara Marine Protected Area—a place where nature still breathes freely.",
+      "How much grace this stretch of sea holds, your eyes fill, your heart melts."
+    ],
+    "destinations": [
+      "The beaches of Lu Impostu, La Cinta, Cala Brandinchi — not seen, but felt: in the salt, in the wind, in the silence that surrounds them.",
+      "Capo Coda Cavallo, where the wind tells ancient routes — of sails, of trade, of destinies crossed between the seas.",
+      "And then, Molara and Tavolara — not rocks in the sea, but living guardians of stories: of battles, of kingdoms, of secrets kept with grace."
+    ],
+    "experience": [
+      "Here, every horizon is memory. Every wave, a breath of the past. Below the keels, fish that dance. On the seabed, gorgonians that tell ancient stories.",
+      "Every dive into its waters is not just a plunge, but a dialogue with the past. Every breath, a bond with those who walked here before you.",
+      "But this experience goes beyond the memory of history.",
+      "On board, your palate encounters essential Sardinia: freshly baked warm bread, cheese that tastes of mountain and time, a glass of Cannonau that tells of earth, sun and working hands.",
+      "Every bite, a gesture of love. Every dish, a lived story — not told, but delivered.",
+      "Served… as a gift. With silence. With respect. With soul.",
+      "At the return hour, Sargon comes back slowly, but you don't return as before. Something here has touched you — not with noise, but with truth.",
+      "Because this was not a day. It was an encounter. With Sardinia. With yourself. With time that, for once, decided to wait for you."
+    ],
+    "included": {
+      "title": "Included in the experience",
+      "items": [
+        "Time without a clock, space to breathe, authentic listening",
+        "Certified captain with 2nd class Deck Officer nautical license",
+        "Attentive and discreet hostess",
+        "Insurance",
+        "Fuel",
+        "Snorkeling & SUP, quality equipment, ready to use, worry-free",
+        "Soft and fragrant beach towels, prepared with care",
+        "Welcome with coffee, tea and fresh fruit juices",
+        "Prosecco served with touches of flavor: small typical appetizers, chosen to tell Sardinia",
+        "Seasonal fruit, selected at the moment",
+        "Mineral water and local wine served with discretion",
+        "Spritz accompanied by homemade sweets, warm bread, honey and artisanal jams",
+        "Vegetarian and gluten-free options available upon request with 24 hours notice"
+      ]
+    },
+    "details": {
+      "title": "Experience Details",
+      "items": [
+        "Duration: 6–8 hours, without rigid schedules – time adapts to the rhythm of the sea and soul",
+        "Few guests on board, to preserve intimacy, silence and authenticity",
+        "Itinerary: fluid and intuitive, inspired by the wind, the light and the instinct of the moment",
+        "Free and spontaneous swim stops, in the most crystalline and protected places on the coast",
+        "Absolute freedom: no obligatory route – direction changes when the heart or the sea asks",
+        "Real food: prepared with local, seasonal products, without frills – as a Sardinian grandmother would make them",
+        "Conscious silence: moments dedicated to listening – to the sea, the wind, to oneself",
+        "Living history: landings at Tavolara, Molara or minor islands told with authentic voice, not from a brochure",
+        "Knowledgeable captain: not just a sailor, but a keeper of stories, seabeds and territorial secrets",
+        "Connection, not entertainment: no forced music, no pre-packaged programs – only real presence"
+      ]
+    },
+    "whatToBring": {
+      "title": "What to bring",
+      "items": [
+        "A swimsuit",
+        "Light beach sandals – for safe boarding and disembarking",
+        "A beach towel",
+        "Sunscreen and a hat",
+        "Kind words and the desire to let yourself be guided"
+      ]
+    },
+    "bookCta": "Book the experience",
+    "galleryTitle": "Moments that stay with you",
+    "locationTab": {
+      "title": "The location you are going to",
+      "aboutTitle": "About the location"
+    },
+    "faqsTab": {
+      "title": "Frequently Asked Questions",
+      "q1": {
+        "question": "What is the cancellation policy?",
+        "answer": "Contact us for details about our flexible cancellation policy."
+      },
+      "q2": {
+        "question": "Is the experience suitable for children?",
+        "answer": "Yes, families with children are welcome aboard Sargon."
+      },
+      "q3": {
+        "question": "What happens in bad weather?",
+        "answer": "We monitor weather conditions closely and will reschedule if necessary for your safety and comfort."
+      }
+    },
+    "ctaSection": {
+      "title": "Ready to experience Sargon?"
+    }
+  },
+  "sunsetVoyagePage": {
+    "title": "Sunset Voyage",
+    "subtitle": "An hour when time doesn't flow. It only breathes.",
+    "location": "Tavolara Marine Protected Area, Sardinia",
+    "duration": "2 hours",
+    "captain": "Studio Marine",
+    "price": "Contact us",
+    "share": "Share",
+    "tabs": {
+      "overview": "Overview",
+      "location": "Location",
+      "included": "What's included",
+      "faqs": "FAQs"
+    },
+    "overviewTitle": "A suspended moment",
+    "facilitiesTitle": "What you'll experience",
+    "intro": [
+      "When the sun rests on the horizon, Sargon doesn't set sail — it arranges itself.",
+      "Like an altar of light and water, sailing and at anchor, among the sleeping islands.",
+      "Here, there's no adventure to tell. There's only presence:"
+    ],
+    "moments": [
+      "feet in fresh water",
+      "glasses of wine that taste of root and wind",
+      "laughter that never ends, because it doesn't need a finale"
+    ],
+    "experience": [
+      "The flavors? Essential. Not exhibited, but offered as gifts.",
+      "It's not an aperitif. It's a suspended moment, where the sea listens to you, the sky embraces you, and you — finally — stop searching. You let yourself be found.",
+      "The sun settles on the horizon, and the sea returns what it has welcomed: your presence, your silence, your wonder."
+    ],
+    "included": {
+      "title": "Included in the Sunset Voyage",
+      "items": [
+        "A spontaneous and poetic itinerary: we follow the sunset light and the rhythm of the sea",
+        "Certified captain with 2nd class Deck Officer nautical license",
+        "Attentive and discreet hostess",
+        "The tour is covered by insurance",
+        "Fuel",
+        "Prosecco and Spritz",
+        "Touches of flavor: typical snacks, chosen to tell Sardinia",
+        "Mineral water and local wine served with discretion",
+        "Vegetarian and gluten-free options available upon request with 24 hours notice"
+      ]
+    },
+    "details": {
+      "title": "The experience",
+      "items": [
+        "Duration: 2 hours, without rigid schedules – time adapts to the rhythm of the sea and soul",
+        "Conscious silence: no artificial music, only the natural sounds of the sea, wind and coast",
+        "Few guests on board: to preserve intimacy, authenticity and quality of experience",
+        "Sensory welcome: every detail — from the fabric of the placemats to the scent of the air — is designed to awaken presence",
+        "Presence of a captain knowledgeable about the territory, capable of revealing mysterious stories related to the sea",
+        "It's not about 'serving an aperitif', but offering a contemporary ritual of connection — with the sea, with Sardinia, with oneself"
+      ]
+    },
+    "whatToBring": {
+      "title": "What to bring",
+      "items": [
+        "Sandals – light, for safe boarding and disembarking"
+      ]
+    },
+    "bookCta": "Book the experience",
+    "galleryTitle": "Moments that stay with you",
+    "locationTab": {
+      "title": "The location you are going to",
+      "aboutTitle": "About the location"
+    },
+    "faqsTab": {
+      "title": "Frequently Asked Questions",
+      "q1": {
+        "question": "What time does the sunset voyage depart?",
+        "answer": "Departure time varies with the season to ensure the perfect sunset experience. We'll confirm the exact time when you book."
+      },
+      "q2": {
+        "question": "Is the aperitivo included?",
+        "answer": "Yes, prosecco, spritz, and authentic Sardinian appetizers are all included in your experience."
+      },
+      "q3": {
+        "question": "Can we swim during the sunset voyage?",
+        "answer": "While the focus is on the sunset experience, weather and conditions permitting, there may be opportunities for a refreshing dip."
+      }
+    },
+    "ctaSection": {
+      "title": "Ready to experience Sargon at sunset?"
+    }
+  },
+  "signatureServicesPage": {
+    "title": "Signature Services",
+    "subtitle": "Where excellence meets the sea",
+    "location": "On board Sargon",
+    "duration": "Custom experience",
+    "service": "Catering by Pentumas",
+    "price": "Contact us",
+    "tabs": {
+      "overview": "Overview",
+      "menus": "Menus",
+      "wines": "Wine Selection",
+      "details": "Details"
+    },
+    "overviewTitle": "Navigate the sea of flavors",
+    "intro": [
+      "The exclusive catering service prepared at Pentumas restaurant and served on board Sargon is not simply a meal on a boat: it is a sensory journey woven with respect for the sea, land and time, offered with the delicacy of those who know that true luxury lies in the essential.",
+      "The food comes directly from the heart of Sardinia: the freshest seasonal ingredients, carefully cultivated by a historic family-run organic farm. Nothing is standardized or replicated elsewhere. Each dish is artisanally crafted in the restaurant, then transported on board to be experienced in its entirety — with the scent of the sea, the sunlight and the gentle sway of the catamaran.",
+      "The wines tell the story of the surrounding hills, the spirits — such as the award-winning Gin di Nonna Luigina — preserve childhood memories and sustainable innovation. But what makes this catering truly special is its spirit: on board Sargon, we don't just serve, we share. No imposed schedules or formalities: we listen, accompany, welcome.",
+      "Here, true luxury is the quality of the moment: savoring not just the food, but also the light, the silence, the sway of the catamaran and sincere company. Eating on board Sargon means rediscovering ancient conviviality: slow, authentic, rooted in the territory. Each bite is a tribute to the land, each glass a toast to the beauty of being present, now, on the clearest sea in the Mediterranean."
+    ],
+    "menusIntro": "Below are some menus designed to tell the story of the land, enhance the sea and celebrate time standing still.",
+    "menus": {
+      "fish": {
+        "title": "Fish Menu",
+        "subtitle": "Buffet with table service",
+        "items": [
+          "Panzanella di tonno e bottarga",
+          "Meloce, menta e gamberi",
+          "Caprese di stracciatella e avocado",
+          "Patate, fagioli e polpo",
+          "Ricotta e composta di scalogno",
+          "Tartare di branzino, acciughe e capperi",
+          "Insalata di riso e seppie arrostite",
+          "Calamari alla brace, rucola e pomodorini",
+          "Focaccia di patate, mousse di caprino e orata marinata",
+          "Macedonia di frutta",
+          "Tiramisù classico"
+        ]
+      },
+      "meat": {
+        "title": "Meat Menu",
+        "subtitle": "Buffet and table service",
+        "items": [
+          "Pomodoro, mozzarella e focaccia di patate",
+          "Speck e kiwi",
+          "Tartare di manzo e maionese agli agrumi",
+          "Patate, fagiolini e zucchine in carpione",
+          "Ricotta e composta di scalogno",
+          "Insalata di riso, tuorlo d'uovo marinato e caviale al tartufo",
+          "Melone, yogurt e cannella",
+          "Mini pizzette al tegamino con broccoli e salsiccia",
+          "Tacos di manzo, guacamole e grana riserva",
+          "Macedonia di frutta",
+          "Panna cotta alla vaniglia e ananas marinato"
+        ]
+      },
+      "vegetarian": {
+        "title": "Vegetarian Menu",
+        "subtitle": "Buffet and table service",
+        "items": [
+          "Panzanella di zucchine arrosto",
+          "Caprese di burrata",
+          "Insalata di riso",
+          "Tartare di rapa rossa, pomodoro e basilico",
+          "Maritozzi salati",
+          "Mini-quiche di verdure",
+          "Polpetta fredda di melanzane e caponata alla catanese",
+          "Finocchi e arance",
+          "Gazpacho di pomodoro, peperoni in agrodolce",
+          "Macedonia di frutta",
+          "Panna cotta di finocchi, pompelmo al balsamico e marmellata di limone"
+        ]
+      }
+    },
+    "pairingsTitle": "Pairings & Tastings",
+    "pairingsIntro": [
+      "Each menu is accompanied by local wines, carefully selected from Fratelli Sanna or Teodoro wineries: authentic expressions of the land that nourishes us, guardians of its terroir and soul. They are not simple labels, but stories told in a glass.",
+      "The culinary experience culminates with an intimate tasting of local spirits and traditional sweets, featuring the Sardinian Gin di \"Nonna Luigina\", born from the ancient citrus Sa Pompia. A liqueur that tastes of roots, sun and innovation — awarded the Oscar Green 2020 for Creativity, for its ability to unite tradition and sustainability in one sip.",
+      "Each wine is chosen to tell a fragment of Sardinia: the stone, the wind, the salt, the silence.",
+      "For personalized tastings or custom pairings, your consultant on Sargon is at your disposal."
+    ],
+    "wineListTitle": "Wine List on board Sargon",
+    "wineListQuote": "On board Sargon we only share what has a soul: A small selection of artisan spirits and rare labels, chosen not for completeness but for truth. Because here, every drop must deserve the silence of the surrounding sea.",
+    "wineSelection": {
+      "sparklingTitle": "Sparkling",
+      "sparkling": [
+        {
+          "name": "Siddùra – Blanc de Blancs Brut Metodo Classico Riserva 2018",
+          "description": "Vermentino di Gallura, 48 months on lees",
+          "price": "€ 172"
+        }
+      ],
+      "vermentinoTitle": "Vermentino di Gallura DOCG",
+      "vermentino": [
+        {
+          "name": "Li Duni – Korakas 2023",
+          "description": "Granitic vineyards of Arzachena, fermented in cement",
+          "price": "€ 152"
+        },
+        {
+          "name": "Surrau – Sciala 2023",
+          "description": "Santa Teresa Gallura, Mediterranean freshness and minerality",
+          "price": "€ 136"
+        },
+        {
+          "name": "Cantina di Santadi – Nuna 2023",
+          "description": "Pure expression of Gallurese Vermentino",
+          "price": "€ 124"
+        }
+      ],
+      "otherWhitesTitle": "Other Local White Wines",
+      "otherWhites": [
+        {
+          "name": "Teodoro – Torbato Antico 2023",
+          "description": "Alghero, historic grape variety, aromas of orange blossom and yellow peach",
+          "price": "€ 142"
+        },
+        {
+          "name": "Fratelli Sanna – S'Acca Vermentino di Romangia 2023",
+          "description": "Limestone soils between Sassari and Porto Torres",
+          "price": "€ 126"
+        },
+        {
+          "name": "Teodoro – Lu Tintu Vermentino 2023",
+          "description": "Blend of northern vineyards, ideal for aperitif by the sea",
+          "price": "€ 124"
+        }
+      ],
+      "redsTitle": "Red Wines",
+      "reds": [
+        {
+          "name": "Tenute Dettori – Dinu Rosso 2020",
+          "description": "Pure Cagnulari from century-old vineyards, Romangia",
+          "price": "€ 190"
+        },
+        {
+          "name": "Fratelli Sanna – Cagnulari Riserva 2021",
+          "description": "Aged in large barrels, silky tannin, ripe red fruit",
+          "price": "€ 146"
+        }
+      ],
+      "note": "Upon request, other artisan labels and vertical vintages available."
+    },
+    "detailsTitle": "Practical Details",
+    "detailsItems": [
+      "Available upon request",
+      "Booking: required at least 48 hours in advance",
+      "Pentumas' cellar is ready to respond to specific requests for spirits or artisan labels",
+      "Prices for extra labels will be agreed upon at the time of booking, based on your preferences"
+    ],
+    "bookCta": "Request Information",
+    "ctaSection": {
+      "title": "Ready to experience Sargon's signature service?"
+    }
+  },
+  "exclusivePage": {
+    "title": "Exclusive Services",
+    "subtitle": "Tailored experiences for those who seek the extraordinary",
+    "location": "On board Sargon",
+    "duration": "Fully customizable",
+    "service": "Private Charter",
+    "price": "Contact us",
+    "mainTitle": "Your journey, your vision",
+    "intro": [
+      "Sargon's exclusive services are not a product. They are a dialogue. A space where your desires meet our knowledge of the sea, the territory, and the art of welcoming.",
+      "Whether it's a private celebration, a corporate retreat, a milestone event, or simply the wish to experience the Mediterranean in absolute intimacy, we design each experience from scratch — with respect, attention, and dedication.",
+      "No fixed itineraries. No standardized proposals. Every detail is discussed, imagined, and crafted specifically for you."
+    ],
+    "services": [
+      {
+        "title": "Private Charter",
+        "description": "Complete exclusivity on board Sargon. Choose your time, your route, your rhythm. The catamaran becomes your private space on the sea."
+      },
+      {
+        "title": "Special Events",
+        "description": "Birthdays, anniversaries, proposals, intimate gatherings. Celebrations that deserve a setting as unique as the moment itself."
+      },
+      {
+        "title": "Corporate Experiences",
+        "description": "Team building, executive retreats, client entertaining. Professional experiences designed to inspire connection and presence."
+      },
+      {
+        "title": "Extended Voyages",
+        "description": "Multi-day journeys along the Sardinian coast. Discover hidden coves, secluded islands, and authentic coastal villages at your own pace."
+      }
+    ],
+    "expectTitle": "What to Expect",
+    "expectItems": [
+      "Pre-experience consultation to understand your vision and preferences",
+      "Fully customized itinerary based on your desires and the rhythm of the sea",
+      "Dedicated crew attentive to every detail",
+      "Premium catering options from Pentumas restaurant (upon request)",
+      "Curated wine selection from local artisan wineries",
+      "Flexible timing — no rigid schedules",
+      "Complete privacy and exclusivity",
+      "Respect for silence, presence, and the beauty of the moment"
+    ],
+    "bookCta": "Contact Us",
+    "ctaSection": {
+      "title": "Ready to create your exclusive experience?",
+      "description": "Share your vision with us. We'll design an experience that honors it."
+    }
+  },
+  "aboutPage": {
+    "title": "Who We Are",
+    "subtitle": "A story of sea, authenticity, and presence",
+    "introTitle": "Sargon: More than a name, a journey",
+    "intro": [
+      "Sargon is not a brand. It is a vision. A way of experiencing the sea that has nothing to do with luxury for display, but everything to do with authenticity, slowness, and respect.",
+      "Born from the intuition of Studio Marine, a strategic laboratory that designs experiences rooted in territory and meaning, Sargon takes its name from an ancient king — not of conquest, but of connection. A name that evokes journeys, encounters, dialogue between cultures and seas.",
+      "On board Sargon, there are no fixed itineraries. There are no standardized menus. There is only space: for silence, for listening, for presence. The catamaran becomes a place where the sea teaches you to slow down, where luxury is not what you see, but what you feel."
+    ],
+    "studioMarineTitle": "Studio Marine: The laboratory behind Sargon",
+    "studioMarine": [
+      "Studio Marine is not a tourism company. It is a strategic design laboratory that creates experiences of meaning. Every project is born from a question: how can we return to an authentic relationship with territory, with people, with time?",
+      "Sargon is the answer to that question applied to the sea. An experience designed to break away from standardization, to rediscover slowness as luxury, and silence as wealth.",
+      "The team behind Studio Marine brings together strategic vision, deep knowledge of Sardinian territory, and the ability to translate values into tangible experiences — never imposed, always shared."
+    ],
+    "valuesTitle": "Our Values",
+    "values": [
+      {
+        "title": "Authenticity",
+        "description": "No masks. No performances. Every experience on Sargon is real — from the food that comes from local farms, to the captain who knows every rock by name, to the wines that tell the story of the surrounding hills."
+      },
+      {
+        "title": "Minimalism",
+        "description": "Less is more. Fewer guests on board, fewer stops but deeply lived, less haste and more presence. True luxury is not in accumulation, but in essential quality."
+      },
+      {
+        "title": "Respect",
+        "description": "For the sea, for the territory, for silence. For those who welcome and those who are welcomed. Every gesture on board Sargon is a gesture of care — never invasive, always attentive."
+      },
+      {
+        "title": "Presence",
+        "description": "The opposite of distraction. On Sargon, we don't entertain — we create space for you to finally be present. To listen to the wind, to feel the water, to rediscover the beauty of a moment that asks for nothing but to be lived."
+      }
+    ],
+    "teamTitle": "The People Behind the Experience",
+    "team": [
+      "Every experience on Sargon is guided by people who don't just work at sea — they live it. The captain is not a driver: he is a storyteller, a keeper of routes and secrets. The stewardess is not a server: she is a presence that accompanies without imposing.",
+      "Behind every detail — from the food prepared at Pentumas restaurant to the wines selected from local wineries — there are people who have chosen quality over quantity, truth over appearance.",
+      "Because Sargon is not a service. It is an encounter. And every encounter is made possible by those who believe that true luxury is in authenticity."
+    ],
+    "ctaSection": {
+      "title": "Want to know more?",
+      "description": "We don't have brochures. We have stories. Write to us.",
+      "cta": "Contact Us"
+    }
   }
 }

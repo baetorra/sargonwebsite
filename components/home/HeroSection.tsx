@@ -113,6 +113,15 @@ export default function HeroSection() {
               </li>
               <li>
                 <Link
+                  href={`/${locale}/about`}
+                  onClick={() => setMenuOpen(false)}
+                  className="text-4xl md:text-6xl font-serif font-bold hover:text-primary transition-colors"
+                >
+                  {tCommon('about')}
+                </Link>
+              </li>
+              <li>
+                <Link
                   href={`/${locale}/contact`}
                   onClick={() => setMenuOpen(false)}
                   className="text-4xl md:text-6xl font-serif font-bold hover:text-primary transition-colors"

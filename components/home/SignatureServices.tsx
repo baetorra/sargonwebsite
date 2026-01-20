@@ -20,13 +20,13 @@ export default function SignatureServices() {
         </p>
         <div className="flex flex-col sm:flex-row gap-6 justify-center">
           <Link
-            href={`/${locale}#contact`}
+            href={`/${locale}/catering`}
             className="inline-block border-b-2 border-primary text-primary hover:border-secondary hover:text-secondary transition-all duration-300 text-sm uppercase tracking-wider pb-1"
           >
             {t('catering')}
           </Link>
           <Link
-            href={`/${locale}#contact`}
+            href={`/${locale}/exclusive`}
             className="inline-block border-b-2 border-primary text-primary hover:border-secondary hover:text-secondary transition-all duration-300 text-sm uppercase tracking-wider pb-1"
           >
             {t('exclusive')}

@@ -22,6 +22,7 @@ export default function ExperiencesSection() {
           cta={t('dailyCruise.cta')}
           imagePosition="left"
           image="/photo/catamaran/daily-cruise.jpg"
+          href="/experiences/daily-cruise"
         />
 
         {/* Sunset Voyage */}
@@ -32,6 +33,7 @@ export default function ExperiencesSection() {
           cta={t('sunsetVoyage.cta')}
           imagePosition="right"
           image="/photo/catamaran/catamaran-03.jpg"
+          href="/experiences/sunset-voyage"
         />
 
         {/* Signature Services */}
