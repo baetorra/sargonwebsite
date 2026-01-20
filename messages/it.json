@@ -1,0 +1,73 @@
+{
+  "common": {
+    "siteName": "SARGON",
+    "welcome": "Benvenuto",
+    "home": "Home",
+    "experiences": "Esperienze",
+    "philosophy": "Filosofia",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "title": "Sargon ti riporta al mare, alla terra a se stessi.",
+    "subtitle": "A chi aveva dimenticato di ascoltarsi."
+  },
+  "experiences": {
+    "title": "Le esperienze",
+    "dailyCruise": {
+      "title": "Daily cruise",
+      "subtitle": "Nel silenzio inizia l'avventura",
+      "description": "Sargon, verso le acque custodite di Tavolara. Mare, lentezza, essenza.",
+      "cta": "Scopri di più"
+    },
+    "sunsetVoyage": {
+      "title": "Sunset voyage",
+      "subtitle": "Quando il sole si ferma, noi partiamo",
+      "description": "Sargon, inizia il rituale al crepuscolo. Vino, risate, sapori essenziali.",
+      "cta": "Scopri di più"
+    },
+    "signature": {
+      "title": "Servizi signature",
+      "description": "Questi servizi sono per chi vuole portare ogni dettaglio a un livello più profondo: non il lusso, ma la voglia di comprendere — davvero — cosa siano presenza, cura e significato.",
+      "catering": "Servizio catering",
+      "exclusive": "Servizi esclusivi"
+    }
+  },
+  "philosophy": {
+    "title": "La nostra filosofia",
+    "intro": "Studio Marine è il laboratorio strategico che ha concepito Sargon prendendo spunto da ciò che il nome porta con sé fin dall'antichità: un viaggio non di conquista, ma di connessione.",
+    "subtitle": "Sargon è il modello di viaggio di lusso in Sardegna — non ostentato, ma radicato.",
+    "principles": {
+      "title": "I principi fondamentali",
+      "luxury": {
+        "title": "Il lusso vero non si vede. Si sente.",
+        "items": [
+          "Non è il numero di cabine, ma nel silenzio che avvolge il mare aperto.",
+          "Non è il brand del motore, ma il rispetto con cui lo usiamo.",
+          "Non è nel tempo contato, ma nella libertà di cambiare idea, seguire un delfino, fermarsi dove l'acqua si fa cristallo, assecondare il respiro del mare."
+        ]
+      },
+      "minimalism": {
+        "title": "Meno è più",
+        "items": [
+          "Pochi ospiti a bordo. Pochi approdi, ma vissuti in profondità.",
+          "Meno fretta, più presenza.",
+          "Meno rumore, più silenzio da ascoltare."
+        ]
+      },
+      "authenticity": {
+        "title": "Autenticità",
+        "items": [
+          "Prodotti locali, non menu standardizzati.",
+          "Un capitano che conosce ogni scogliera per nome, non un pilota automatico.",
+          "Storie vere raccontate a prua, non itinerari preconfezionati.",
+          "Lusso consapevole: scegliere cosa conta davvero e lasciare andare il resto."
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Mettiti in contatto con noi",
+    "description": "Non esitare a contattarci per qualsiasi domanda o richiesta."
+  }
+}

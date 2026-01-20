@@ -1,0 +1,73 @@
+{
+  "common": {
+    "siteName": "SARGON",
+    "welcome": "Bienvenue",
+    "home": "Accueil",
+    "experiences": "Expériences",
+    "philosophy": "Philosophie",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Sargon vous ramène à la mer, à la terre, à vous-même.",
+    "subtitle": "Pour ceux qui avaient oublié d'écouter."
+  },
+  "experiences": {
+    "title": "Les expériences",
+    "dailyCruise": {
+      "title": "Croisière quotidienne",
+      "subtitle": "L'aventure commence dans le silence",
+      "description": "Sargon, vers les eaux protégées de Tavolara. Mer, lenteur, essence.",
+      "cta": "Découvrir plus"
+    },
+    "sunsetVoyage": {
+      "title": "Voyage au coucher du soleil",
+      "subtitle": "Quand le soleil s'arrête, nous partons",
+      "description": "Sargon, le rituel commence au crépuscule. Vin, rires, saveurs essentielles.",
+      "cta": "Découvrir plus"
+    },
+    "signature": {
+      "title": "Services signature",
+      "description": "Ces services sont pour ceux qui veulent porter chaque détail à un niveau plus profond : non pas le luxe, mais le désir de vraiment comprendre ce que sont la présence, le soin et le sens.",
+      "catering": "Service de restauration",
+      "exclusive": "Services exclusifs"
+    }
+  },
+  "philosophy": {
+    "title": "Notre philosophie",
+    "intro": "Studio Marine est le laboratoire stratégique qui a conçu Sargon en s'inspirant de ce que le nom porte depuis l'Antiquité : un voyage non de conquête, mais de connexion.",
+    "subtitle": "Sargon est le modèle de voyage de luxe en Sardaigne — non ostentatoire, mais enraciné.",
+    "principles": {
+      "title": "Principes fondamentaux",
+      "luxury": {
+        "title": "Le vrai luxe ne se voit pas. Il se ressent.",
+        "items": [
+          "Ce n'est pas le nombre de cabines, mais dans le silence qui enveloppe la mer ouverte.",
+          "Ce n'est pas la marque du moteur, mais le respect avec lequel nous l'utilisons.",
+          "Ce n'est pas dans le temps compté, mais dans la liberté de changer d'avis, suivre un dauphin, s'arrêter où l'eau devient cristalline, suivre le souffle de la mer."
+        ]
+      },
+      "minimalism": {
+        "title": "Moins c'est plus",
+        "items": [
+          "Peu d'invités à bord. Peu d'escales, mais vécues en profondeur.",
+          "Moins de hâte, plus de présence.",
+          "Moins de bruit, plus de silence à écouter."
+        ]
+      },
+      "authenticity": {
+        "title": "Authenticité",
+        "items": [
+          "Produits locaux, pas de menus standardisés.",
+          "Un capitaine qui connaît chaque falaise par son nom, pas un pilote automatique.",
+          "De vraies histoires racontées à la proue, pas d'itinéraires préfabriqués.",
+          "Luxe conscient : choisir ce qui compte vraiment et laisser tomber le reste."
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Prenez contact avec nous",
+    "description": "N'hésitez pas à nous contacter pour toute question ou demande."
+  }
+}

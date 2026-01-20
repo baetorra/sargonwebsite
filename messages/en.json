@@ -1,0 +1,73 @@
+{
+  "common": {
+    "siteName": "SARGON",
+    "welcome": "Welcome",
+    "home": "Home",
+    "experiences": "Experiences",
+    "philosophy": "Philosophy",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Sargon brings you back to the sea, to the land, to yourself.",
+    "subtitle": "For those who had forgotten to listen."
+  },
+  "experiences": {
+    "title": "The Experiences",
+    "dailyCruise": {
+      "title": "Daily cruise",
+      "subtitle": "The adventure begins in silence",
+      "description": "Sargon, towards the protected waters of Tavolara. Sea, slowness, essence.",
+      "cta": "Discover more"
+    },
+    "sunsetVoyage": {
+      "title": "Sunset voyage",
+      "subtitle": "When the sun stops, we depart",
+      "description": "Sargon, the ritual begins at dusk. Wine, laughter, essential flavors.",
+      "cta": "Discover more"
+    },
+    "signature": {
+      "title": "Signature services",
+      "description": "These services are for those who want to take every detail to a deeper level: not luxury, but the desire to truly understand what presence, care, and meaning are.",
+      "catering": "Catering service",
+      "exclusive": "Exclusive services"
+    }
+  },
+  "philosophy": {
+    "title": "Our Philosophy",
+    "intro": "Studio Marine is the strategic laboratory that conceived Sargon, taking inspiration from what the name has carried since ancient times: a journey not of conquest, but of connection.",
+    "subtitle": "Sargon is the model of luxury travel in Sardinia — not ostentatious, but rooted.",
+    "principles": {
+      "title": "Fundamental Principles",
+      "luxury": {
+        "title": "True luxury is not seen. It is felt.",
+        "items": [
+          "It's not the number of cabins, but in the silence that embraces the open sea.",
+          "It's not the brand of the engine, but the respect with which we use it.",
+          "It's not in counted time, but in the freedom to change your mind, follow a dolphin, stop where the water becomes crystal, follow the breath of the sea."
+        ]
+      },
+      "minimalism": {
+        "title": "Less is more",
+        "items": [
+          "Few guests on board. Few landings, but experienced in depth.",
+          "Less hurry, more presence.",
+          "Less noise, more silence to listen to."
+        ]
+      },
+      "authenticity": {
+        "title": "Authenticity",
+        "items": [
+          "Local products, not standardized menus.",
+          "A captain who knows every cliff by name, not an autopilot.",
+          "True stories told at the bow, not pre-packaged itineraries.",
+          "Conscious luxury: choosing what truly matters and letting go of the rest."
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us",
+    "description": "Feel free to reach out to us with any questions or inquiries."
+  }
+}
