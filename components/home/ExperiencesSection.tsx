@@ -21,7 +21,7 @@ export default function ExperiencesSection() {
           description={t('dailyCruise.description')}
           cta={t('dailyCruise.cta')}
           imagePosition="left"
-          image="/photo/catamaran/daily-cruise.jpg"
+          image="/photo/tour1/3__73W5624.jpg"
           href="/experiences/daily-cruise"
         />
 
