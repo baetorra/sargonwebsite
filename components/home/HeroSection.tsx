@@ -1,7 +1,7 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { Mouse, X } from 'lucide-react';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
@@ -15,6 +15,8 @@ export default function HeroSection() {
   const [prefersReducedMotion, setPrefersReducedMotion] = useState(false);
   const [currentSlide, setCurrentSlide] = useState(1);
   const [menuOpen, setMenuOpen] = useState(false);
+  const [isPaused, setIsPaused] = useState(false);
+  const pauseTimerRef = useRef  <ReturnType<typeof setTimeout> | null>(null);
 
   // Video configuration for each slide
   const slides = [
