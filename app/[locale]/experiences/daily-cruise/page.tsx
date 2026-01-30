@@ -21,7 +21,7 @@ export default function DailyCruisePage() {
   const [mounted, setMounted] = useState(false);
 
   const galleryImages = [
-    '/photo/catamaran/catamaran-02.jpg',
+    '/photo/catamaran/catamaran-03.jpg',
     '/photo/catamaran/catamaran-04.jpg',
     '/photo/catamaran/catamaran-05.jpg',
     '/photo/catamaran/catamaran-07.jpg',
@@ -60,7 +60,7 @@ export default function DailyCruisePage() {
       {/* Hero Section with Overlay Card */}
       <section className="relative h-[70vh] min-h-[600px]">
         <Image
-          src="/photo/catamaran/daily-cruise.jpg"
+          src="/photo/places/03_1-73W5625.jpg"
           alt={t('title')}
           fill
           className="object-cover"

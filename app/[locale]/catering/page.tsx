@@ -197,19 +197,6 @@ export default function SignatureServicesPage() {
               ))}
             </div>
 
-            {/* Vermentino */}
-            <div className="mb-10">
-              <h3 className="text-xl font-serif mb-6">{t('wineSelection.vermentinoTitle')}</h3>
-              {t.raw('wineSelection.vermentino').map((wine: any, index: number) => (
-                <div key={index} className="mb-4 pb-4 border-b border-muted">
-                  <div className="flex justify-between items-start mb-2">
-                    <h4 className="font-medium">{wine.name}</h4>
-                    <span className="text-primary font-medium whitespace-nowrap ml-4">{wine.price}</span>
-                  </div>
-                  <p className="text-sm text-muted-foreground font-light">{wine.description}</p>
-                </div>
-              ))}
-            </div>
 
             {/* Other Whites */}
             <div className="mb-10">
