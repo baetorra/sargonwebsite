@@ -57,7 +57,7 @@ export default function ExclusivePage() {
               </div>
 
               <a
-                href="mailto:info@sargon.it"
+                href="mailto:info@studiomarine.it"
                 className="block w-full bg-primary text-primary-foreground text-center py-3 rounded hover:bg-primary/90 transition-colors font-medium mb-3"
               >
                 {t('bookCta')}
@@ -117,7 +117,7 @@ export default function ExclusivePage() {
             {t('ctaSection.description')}
           </p>
           <a
-            href="mailto:info@sargon.it"
+            href="mailto:info@studiomarine.it"
             className="inline-block px-12 py-4 bg-primary text-primary-foreground font-medium rounded hover:bg-primary/90 transition-colors"
           >
             {t('bookCta')}

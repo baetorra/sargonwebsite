@@ -72,7 +72,7 @@ Con la Sardegna. Con te stesso. Con il tempo che, per una volta, ha deciso di as
 -  Parole gentili e la voglia di lasciarsi guidare
 
 
-[form for booking sending an email to info@sargon.it using RESEND_API_KEY]
+[form for booking sending an email to info@studiomarine.it using RESEND_API_KEY]
 
 
 
