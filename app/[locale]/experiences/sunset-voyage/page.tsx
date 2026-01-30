@@ -104,7 +104,7 @@ export default function SunsetVoyagePage() {
               </div>
 
               <a
-                href="mailto:info@sargon.it"
+                href="mailto:info@studiomarine.it"
                 className="block w-full bg-primary text-primary-foreground text-center py-3 rounded hover:bg-primary/90 transition-colors font-medium mb-3"
               >
                 {t('bookCta')}
@@ -175,8 +175,9 @@ export default function SunsetVoyagePage() {
             </div>
 
             <div className="bg-muted/30 rounded-lg p-8 mb-12">
+            <h3 className="text-2xl font-serif mb-8">{t.raw('moments')[0]}</h3>
               <ul className="space-y-4">
-                {t.raw('moments').map((moment: string, index: number) => (
+                {t.raw('moments').slice(1).map((moment: string, index: number) => (
                   <li key={index} className="flex items-start gap-3 text-muted-foreground">
                     <span className="text-primary mt-1">•</span>
                     <span className="font-light italic">{moment}</span>
@@ -350,7 +351,7 @@ export default function SunsetVoyagePage() {
             {t('ctaSection.title')}
           </h3>
           <a
-            href="mailto:info@sargon.it"
+            href="mailto:info@studiomarine.it"
             className="inline-block px-12 py-4 bg-primary text-primary-foreground font-medium rounded hover:bg-primary/90 transition-colors"
           >
             {t('bookCta')}

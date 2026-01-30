@@ -49,6 +49,6 @@ Sargon è il modello di viaggio di lusso in Sardegna — non ostentato, ma radic
 - Meno rumore, più silenzio da ascoltare.
 ### Autenticità
 - Prodotti locali, non menu standardizzati.
-- Un capitano che conosce ogni scogliera per nome, non un pilota automatico.
+- Un Comandante che conosce ogni scogliera per nome, non un pilota automatico.
 - Storie vere raccontate a prua, non itinerari preconfezionati.
 - Lusso consapevole: scegliere cosa conta davvero e lasciare andare il resto.

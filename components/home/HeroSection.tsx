@@ -5,6 +5,7 @@ import { useEffect, useRef, useState } from 'react';
 import { Mouse, X } from 'lucide-react';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
+import Image from 'next/image';
 import LanguageSwitcher from '@/components/ui/LanguageSwitcher';
 
 export default function HeroSection() {
@@ -12,43 +13,52 @@ export default function HeroSection() {
   const tCommon = useTranslations('common');
   const params = useParams();
   const locale = params.locale as string;
-  const [prefersReducedMotion, setPrefersReducedMotion] = useState(false);
   const [currentSlide, setCurrentSlide] = useState(1);
   const [menuOpen, setMenuOpen] = useState(false);
   const [isPaused, setIsPaused] = useState(false);
   const pauseTimerRef = useRef  <ReturnType<typeof setTimeout> | null>(null);
 
-  // Video configuration for each slide
+  // Image configuration for each slide
   const slides = [
     {
-      video: '/videos/a-4s.mp4',
-      poster: '/videos/a-cover.jpg',
+      image: '/photo/hero/1.jpg',
+      alt: 'Luxury catamaran sailing on crystal blue waters',
     },
     {
-      video: '/videos/b-4s.mp4',
-      poster: '/videos/b-cover.jpg',
+      image: '/photo/hero/2.jpg',
+      alt: 'Relaxation on spacious catamaran deck',
     },
   ];
 
   const totalSlides = slides.length;
 
-  // Handle video end - advance to next slide
-  const handleVideoEnd = () => {
-    setCurrentSlide((prev) => (prev >= totalSlides ? 1 : prev + 1));
+  // Handle manual slide change
+  const handleSlideChange = (slideIndex: number) => {
+    setCurrentSlide(slideIndex);
+    setIsPaused(true);
+
+    // Clear existing timer
+    if (pauseTimerRef.current) {
+      clearTimeout(pauseTimerRef.current);
+    }
+
+    // Resume auto-advance after 10 seconds
+    pauseTimerRef.current = setTimeout(() => {
+      setIsPaused(false);
+    }, 10000);
   };
 
+  // Auto-advance slides every 5 seconds
   useEffect(() => {
-    // Check for reduced motion preference
-    const mediaQuery = window.matchMedia('(prefers-reduced-motion: reduce)');
-    setPrefersReducedMotion(mediaQuery.matches);
+    if (isPaused) return;
 
-    const handleChange = (e: MediaQueryListEvent) => {
-      setPrefersReducedMotion(e.matches);
-    };
+    const interval = setInterval(() => {
+      setCurrentSlide((prev) => (prev >= totalSlides ? 1 : prev + 1));
+    }, 5000);
 
-    mediaQuery.addEventListener('change', handleChange);
-    return () => mediaQuery.removeEventListener('change', handleChange);
-  }, []);
+    return () => clearInterval(interval);
+  }, [totalSlides, isPaused]);
+
 
   useEffect(() => {
     // Prevent body scroll when menu is open
@@ -160,25 +170,17 @@ export default function HeroSection() {
           {/* Center - Main Content */}
           <div className="flex-1 flex items-center">
             <div className="w-full text-left">
-              {/* Mobile Video - Shows only on mobile */}
-              <div className="lg:hidden w-[60%] aspect-[4/3] rounded-xl overflow-hidden mb-6">
-                {!prefersReducedMotion ? (
-                  <video
-                    key={currentSlide}
-                    autoPlay
-                    muted
-                    playsInline
-                    preload="auto"
-                    poster={slides[currentSlide - 1].poster}
-                    onEnded={handleVideoEnd}
-                    className="w-full h-full object-cover transition-opacity duration-500"
-                    aria-hidden="true"
-                  >
-                    <source src={slides[currentSlide - 1].video} type="video/mp4" />
-                  </video>
-                ) : (
-                  <div className="w-full h-full bg-gradient-to-br from-primary/20 to-accent/20" />
-                )}
+              {/* Mobile Image - Shows only on mobile */}
+              <div className="lg:hidden w-[60%] aspect-[4/3] rounded-xl overflow-hidden mb-6 relative">
+                <Image
+                  key={currentSlide}
+                  src={slides[currentSlide - 1].image}
+                  alt={slides[currentSlide - 1].alt}
+                  fill
+                  className="object-cover transition-opacity duration-500"
+                  priority
+                  sizes="60vw"
+                />
               </div>
 
               {/* Navigation Dots */}
@@ -186,7 +188,7 @@ export default function HeroSection() {
               {Array.from({ length: totalSlides }).map((_, i) => (
                 <button
                   key={i}
-                  onClick={() => setCurrentSlide(i + 1)}
+                  onClick={() => handleSlideChange(i + 1)}
                   className={`w-2 h-2 rounded-full transition-all ${
                     i + 1 === currentSlide
                       ? 'bg-foreground h-8'
@@ -200,9 +202,10 @@ export default function HeroSection() {
             {/* Main Title */}
             <div className="lg:pl-16">
 
-              <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-8xl font-serif font-light leading-none tracking-tight mb-4 lg:mb-6">
-                {t('title')}
-              </h1>
+              <h1
+                className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-serif font-light leading-none tracking-tight mb-4 lg:mb-6"
+                dangerouslySetInnerHTML={{ __html: t('title') }}
+              />
               <p className="text-xs uppercase tracking-wider text-muted-foreground font-light">
                 {t('subtitle')}
               </p>
@@ -218,7 +221,7 @@ export default function HeroSection() {
               {Array.from({ length: totalSlides }).map((_, i) => (
                 <button
                   key={i}
-                  onClick={() => setCurrentSlide(i + 1)}
+                  onClick={() => handleSlideChange(i + 1)}
                   className={`w-2 h-2 rounded-full transition-all ${
                     i + 1 === currentSlide
                       ? 'bg-foreground w-6'
@@ -243,28 +246,17 @@ export default function HeroSection() {
         </div>
       </div>
 
-      {/* Right Panel - Video */}
-      <div className="hidden lg:block relative w-1/2">
-        {!prefersReducedMotion && (
-          <video
-            key={currentSlide}
-            autoPlay
-            muted
-            playsInline
-            preload="auto"
-            poster={slides[currentSlide - 1].poster}
-            onEnded={handleVideoEnd}
-            className="w-full h-full object-cover transition-opacity duration-500"
-            aria-hidden="true"
-          >
-            <source src={slides[currentSlide - 1].video} type="video/mp4" />
-          </video>
-        )}
-
-        {/* Fallback gradient for reduced motion */}
-        {prefersReducedMotion && (
-          <div className="w-full h-full bg-gradient-to-br from-primary/20 to-accent/20" />
-        )}
+      {/* Right Panel - Image */}
+      <div className="hidden lg:block relative w-1/2 h-screen">
+        <Image
+          key={currentSlide}
+          src={slides[currentSlide - 1].image}
+          alt={slides[currentSlide - 1].alt}
+          fill
+          className="object-cover transition-opacity duration-500"
+          priority
+          sizes="50vw"
+        />
       </div>
       </section>
     </>
