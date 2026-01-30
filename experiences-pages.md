@@ -39,7 +39,7 @@ Con la Sardegna. Con te stesso. Con il tempo che, per una volta, ha deciso di as
 ## Incluso nell'esperienze
 
 1. Tempo senza orologio, spazio per respirare, ascolto autentico.
-2. Capitano certificato con la patente nautica Ufficiale di coperta di 2° classe
+2. Comandante certificato con la patente nautica Ufficiale di coperta di 2° classe
 3. Hostess attenta e discreta
 4. Assicurazione.
 5. Carburante
@@ -61,7 +61,7 @@ Con la Sardegna. Con te stesso. Con il tempo che, per una volta, ha deciso di as
 - Cibo vero: preparati con prodotti locali, stagionali, senza fronzoli – come li farebbe una nonna sarda
 - Silenzio consapevole: momenti dedicati all’ascolto – del mare, del vento, di sé
 - Storia viva: approdi a Tavolara, Molara o isole minori raccontate con voce autentica, non da brochure
-- Capitano conoscitore: non solo un marinaio, ma un custode di storie, fondali e segreti del territorio
+- Comandante conoscitore: non solo un marinaio, ma un custode di storie, fondali e segreti del territorio
 - Connessione, non intrattenimento: niente musica forzata, niente programmi preconfezionati – solo presenza reale
 
 # Cosa portare
@@ -72,7 +72,7 @@ Con la Sardegna. Con te stesso. Con il tempo che, per una volta, ha deciso di as
 -  Parole gentili e la voglia di lasciarsi guidare
 
 
-[form for booking sending an email to info@sargon.it using RESEND_API_KEY]
+[form for booking sending an email to info@studiomarine.it using RESEND_API_KEY]
 
 
 
@@ -122,7 +122,7 @@ LE FOTO
 ## Incluso nel Sunset Voyage
 
 - Un itinerario spontaneo e poetico: seguiamo la luce del tramonto e il ritmo del mare  
-- Capitano certificato con la patente nautica Ufficiale di coperta di 2° classe  
+- Comandante certificato con la patente nautica Ufficiale di coperta di 2° classe  
 - Hostess attenta e discreta  
 - Il tour è coperto da assicurazione  
 - Carburante  
@@ -141,7 +141,7 @@ LE FOTO
 - Silenzio consapevole: niente musica artificiale, solo i suoni naturali del mare, del vento e della costa  
 - Pochi ospiti a bordo: per preservare intimità, autenticità e qualità dell’esperienza  
 - Accoglienza sensoriale: ogni dettaglio — dal tessuto delle tovagliette al profumo dell’aria — è pensato per risvegliare la presenza  
-- Presenza di un capitano conoscitore del territorio, capace di svelare storie misteriose legate al mare  
+- Presenza di un Comandante conoscitore del territorio, capace di svelare storie misteriose legate al mare  
 - Non si tratta di “servire un aperitivo”, ma di offrire un rito contemporaneo di connessione — con il mare, con la Sardegna, con sé stessi  
 
 ---

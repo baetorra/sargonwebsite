@@ -101,7 +101,7 @@ export default function AboutPage() {
             {t('ctaSection.description')}
           </p>
           <a
-            href="mailto:info@sargon.it"
+            href="mailto:info@studiomarine.it"
             className="inline-block px-12 py-4 bg-primary text-primary-foreground font-medium rounded hover:bg-primary/90 transition-colors"
           >
             {t('ctaSection.cta')}
